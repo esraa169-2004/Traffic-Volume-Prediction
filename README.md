@@ -2,6 +2,20 @@
 
 ---
 
+## 🚀 Live Demo
+
+Check out the live interactive web application hosted on Streamlit:
+
+<p align="center">
+  <a href="https://traffic-volume-prediction-ztpwawmvy2sgt4mfsium7m.streamlit.app/">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
+  </a>
+</p>
+
+Or access it via direct link: [Traffic Volume Prediction & Congestion App](https://traffic-volume-prediction-ztpwawmvy2sgt4mfsium7m.streamlit.app/)
+
+---
+
 ## 📌 Project Overview
 
 This project analyzes the **Metro Interstate Traffic Volume** dataset to build a complete Machine Learning pipeline that:
